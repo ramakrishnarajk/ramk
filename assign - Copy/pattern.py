@@ -1,0 +1,2 @@
+import obj
+obj.square()
